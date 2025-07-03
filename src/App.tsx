@@ -3,7 +3,7 @@ import MilkteaList from './Components/MilkteaList';
 import img1 from './assets/images/imga.jpg';
 import img2 from './assets/images/imgb.jpg';
 import img3 from './assets/images/imgc.jpg';
-
+import './App.css';
 
 function App() {
   return (
